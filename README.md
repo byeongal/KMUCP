@@ -8,3 +8,8 @@
 ## 2주차
 * [강의자료](./week02/lecture.pdf)
 * [실습](./week02/practice.md)
+
+## 3주차
+* [강의자료](./week03/lecture.pdf)
+* [실습](./week03/practice.md)
+* [숙제](./week03/homework.md)
