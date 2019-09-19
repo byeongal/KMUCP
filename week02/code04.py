@@ -1,5 +1,5 @@
 int_value = 23
 float_value = 3.141592
 
-print(type(int_value))
-print(type(float_value))
+print(int_value, "는", type(int_value), "입니다.")
+print(type(float_value), "는", type(int_value), "입니다.")
