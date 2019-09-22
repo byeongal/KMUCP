@@ -12,11 +12,30 @@
 곱하기와 나누기 사이에는 연산의 우선 순위가 없기 때문에 순서대로 계산을 합니다.
 이를 방지 하기 위해서는 분모에 괄호를 넣어 우선 순위를 줘야 합니다.
 
+#### 예시 코드 #1
 ```python
 weight = float(input("몸무게(kg)을 입력해 주세요 >> "))
 height = float(input("키(m)를 입력해 주세요 >> "))
 
 bmi = weight / (height * height)
+
+print("당신의 BMI지수는", bmi, "입니다.")
+```
+#### 예시 코드 #2
+```python
+weight = float(input("몸무게(kg)을 입력해 주세요 >> "))
+height = float(input("키(m)를 입력해 주세요 >> "))
+
+bmi = weight / height ** 2
+
+print("당신의 BMI지수는", bmi, "입니다.")
+```
+#### 예시 코드 #3
+```python
+weight = float(input("몸무게(kg)을 입력해 주세요 >> "))
+height = float(input("키(m)를 입력해 주세요 >> "))
+
+bmi = weight / height / height
 
 print("당신의 BMI지수는", bmi, "입니다.")
 ```
