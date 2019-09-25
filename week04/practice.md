@@ -9,7 +9,7 @@
 
 예각 삼각형 : ![예각](https://latex.codecogs.com/gif.latex?a%5E2&plus;b%5E2%3Ec%5E2)
 
-![삼각형](https://mblogthumb-phinf.pstatic.net/20160822_293/freewheel3_1471842479355gqw47_JPEG/KakaoTalk_20160822_134016954.jpg?type=w800)
+![삼각형](https://mblogthumb-phinf.pstatic.net/20160822_120/freewheel3_14718423422207TLyW_JPEG/KakaoTalk_20160822_134018320.jpg?type=w800)
 
 #### 입력 예시 #1
 ```
