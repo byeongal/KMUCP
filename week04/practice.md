@@ -3,11 +3,13 @@
 
 단 세 변의 길이는 항상 자연수로만 주어지고, 삼각형을 만들 수 없는 경우는 없다고 가정 합니다.
 
-예각 삼각형 : ![예각](https://latex.codecogs.com/gif.latex?a%5E2&plus;b%5E2%3Cc%5E2)
+둔각 삼각형 : ![둔각](https://latex.codecogs.com/gif.latex?a%5E2&plus;b%5E2%3Cc%5E2)
 
 직각 삼각형 : ![직각](https://latex.codecogs.com/gif.latex?a%5E2&plus;b%5E2%3Dc%5E2)
 
-둔각 삼각형 : ![둔각](https://latex.codecogs.com/gif.latex?a%5E2&plus;b%5E2%3Ec%5E2)
+예각 삼각형 : ![예각](https://latex.codecogs.com/gif.latex?a%5E2&plus;b%5E2%3Ec%5E2)
+
+![삼각형](https://mblogthumb-phinf.pstatic.net/20160822_293/freewheel3_1471842479355gqw47_JPEG/KakaoTalk_20160822_134016954.jpg?type=w800)
 
 #### 입력 예시 #1
 ```
