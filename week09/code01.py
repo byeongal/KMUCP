@@ -1,0 +1,5 @@
+print("안녕하세요")
+print(len("안녕하세요"))
+print(str(100) + str(200))
+print(int("100") + int("200"))
+print(range(1, 10))
